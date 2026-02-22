@@ -1,0 +1,5 @@
+{
+  "name": "ZapManager - Gestão de Instâncias WhatsApp",
+  "description": "Sistema profissional para gerenciamento de múltiplas instâncias de WhatsApp, monitoramento de status e controle de conexões.",
+  "requestFramePermissions": []
+}
